@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Business Card</string>
+    <string name="email">akshay.talwar123@gmail.com</string>
+    <string name="phone">(+91) 987654381</string>
+    <string name="address">Ludhiana, Punjab, India 141013</string>
+    <string name="name">Its Akshay Talwar</string>
+    <string name="position">Android Developer</string>
+    <string name="hi">Hi!</string>
+</resources>
